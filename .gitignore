@@ -1,0 +1,23 @@
+# Local credentials, private inputs, and runtime output
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials/
+secrets/
+private/
+runtime/
+results/
+tmp/
+*.pdf
+*.zip
+
+# Local dependencies and editor files
+node_modules/
+.venv/
+__pycache__/
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

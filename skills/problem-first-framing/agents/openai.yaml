@@ -1,0 +1,4 @@
+interface:
+  display_name: "Problem First Framing"
+  short_description: "Clarify problems before committing to solutions"
+  default_prompt: "Use $problem-first-framing to examine this request, separate evidence from assumptions, and identify the smallest useful next step."

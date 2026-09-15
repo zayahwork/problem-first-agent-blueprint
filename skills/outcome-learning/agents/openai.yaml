@@ -1,0 +1,4 @@
+interface:
+  display_name: "Outcome Learning"
+  short_description: "Turn observed results into bounded, useful learning"
+  default_prompt: "Use $outcome-learning to compare these results with the original expectation and identify which conclusions and next decisions the evidence supports."

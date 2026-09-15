@@ -1,0 +1,4 @@
+interface:
+  display_name: "Risk Driven Observation"
+  short_description: "Connect meaningful risks to signals and response"
+  default_prompt: "Use $risk-driven-observation to identify the signals, ownership, and response rules needed for this system or decision."

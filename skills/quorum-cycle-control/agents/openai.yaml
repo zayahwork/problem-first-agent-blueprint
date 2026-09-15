@@ -1,0 +1,4 @@
+interface:
+  display_name: "Quorum Cycle Control"
+  short_description: "Resolve agent conflicts and detect repeated cycles"
+  default_prompt: "Use $quorum-cycle-control to compare these conflicting proposals, check for cycles, and reach or escalate a bounded decision."
